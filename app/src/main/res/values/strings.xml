@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab5QuizApp</string>
+    <string name="question1">1. What phrase means that the compiler validates types while compiling? Which of the following are valid visibility values?</string>
+    <string name="question2">2. Which of the following are Android RecyclerView layout managers? Select all that apply.</string>
+
+<!--    <string name="q1_option1">GridLayoutManager</string>-->
+<!--    <string name="q1_option2">LinearLayoutManager</string>-->
+<!--    <string name="q1_option3">RecyclingManager</string>-->
+
+    <string name="q2_option1">GridLayoutManager</string>
+    <string name="q2_option2">LinearLayoutManager</string>
+    <string name="q2_option3">RecyclingManager</string>
+
+    <string name="q1_option1">Type Safety</string>
+    <string name="q1_option2">Data Binding</string>
+    <string name="q1_option3">Type Validation</string>
+
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+    <string name="heading">Each question carries 50 points</string>
+</resources>
